@@ -40,12 +40,12 @@ Users can save their trip data, remove it, and restart the page to plan a new tr
 - Clone the project repository to your local machine:
 
    ```sh
-   git clone 
+   git clone https://github.com/s0if/final-udacity.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```sh
-   cd 
+   cd final-udacity-main
    ```
 
 3. **Install Dependencies:**
